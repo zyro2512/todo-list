@@ -1,0 +1,28 @@
+.titulo {
+    padding: 1%;
+    margin: 1%;
+}
+.div {
+    border: 2px solid black; /* Borde negro de 2 píxeles */
+    border-radius: 15px; /* puntas redondeadas */
+    padding: 1%; /* Espacio interno de 10 píxeles */
+    margin: 1%; /* Espacio externo de 10 píxeles */
+    max-width: 40%; /* Espacio maximo del div */
+    color: white; /* Texto en color blanco */
+
+}
+
+.gris{
+    background-color: black;
+}
+
+.naranja {
+    background-color: orange; /* Fondo naranja */
+}
+.verde {
+    background-color: green; /* Color verde*/
+}
+
+.background {
+    background-color: gray; /* Color del fondo del body */
+}
